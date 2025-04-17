@@ -1,4 +1,4 @@
-# WordWeaver v2.0
+# WordWeaver 
 
 **A Personalized Wordlist Generator**
 
@@ -128,17 +128,3 @@ python wordweaver.py [options]
 * **Transformations:** Affix and case transformations are basic; doesn't include more complex mutations or pattern generation.
 * **Performance:** Crawling and analysis can be slow on large websites or with high worker counts/low delays.
 
-## License
-
-(Specify your chosen license here, e.g., MIT License)
-
-```
-[Link to LICENSE file or full license text]
-```
-
-## Contributing
-
-(Optional: Add guidelines if you want others to contribute)
-
-```
-Contributions are welcome! Please read CONTRIBUTING.md for details.
